@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Torch</string>
+    <string name="torch_on">TORCH ON</string>
+    <string name="torch_off">TORCH OFF</string>
+    <string name="tap_to_turn_on">TAP TO TURN ON</string>
+    <string name="tap_to_turn_off">TAP TO TURN OFF</string>
+    <string name="flashlight_not_available">FLASHLIGHT NOT AVAILABLE ON THIS DEVICE</string>
+    <string name="status_label">STATUS</string>
+</resources>

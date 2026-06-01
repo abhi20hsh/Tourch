@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Torch</string>
+    <string name="torch_on">टॉर्च चालू</string>
+    <string name="torch_off">टॉर्च बंद</string>
+    <string name="tap_to_turn_on">चालू करने के लिए दबाएं</string>
+    <string name="tap_to_turn_off">बंद करने के लिए दबाएं</string>
+    <string name="flashlight_not_available">इस डिवाइस पर टॉर्च उपलब्ध नहीं है</string>
+    <string name="status_label">स्थिति</string>
+</resources>

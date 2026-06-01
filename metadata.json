@@ -1,0 +1,6 @@
+{
+  "name": "Torch",
+  "description": "A simple, elegant torch app that supports light and dark modes, with standard and Hindi language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
